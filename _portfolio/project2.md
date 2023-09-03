@@ -1,19 +1,19 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
+title: 파스타
+subtitle: 맛있는 파스타
+image: https://cdn.pixabay.com/photo/2023/07/26/16/43/food-8151625_640.jpg
 alt: Keep Exploring
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
+  title: 파스타
+  subtitle: 맛있는 파스타
+  thumbnail: https://cdn.pixabay.com/photo/2023/07/26/16/43/food-8151625_640.jpg
 ---
 
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+이것은 맛있는 파스타 아닌가 ..
 
 {:.list-inline}
 
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+- Date: 2023
+- Client: ㅇㅅㅈ
+- Category: 음 식

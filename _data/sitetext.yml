@@ -17,62 +17,52 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "프로그래밍 언어"
+    text: "여러가지 프로그래밍 언어를 배울 수 있습니다."
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "C 언어"
+        desc: "재미있는 c언어 강의"
+        icon: fas fa-copyright #find more at https://fontawesome.com/icons
+      - title: "파이썬"
+        desc: "재미있는 파이썬 강의"
+        icon: fab fa-python
+      - title: "자바"
+        desc: "재미있는 자바 강의"
+        icon: fab fa-java
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "포트폴리오"
+    text: "멋있는 포트폴리오"
     section: portfolio
     closebutton: "Close Project"
 
   timeline:
-    title: "Timeline"
-    text: "Lorem ipsum timeline"
+    title: "역 사"
+    text: "전주 비전대 컴퓨터 정보과의 역사(거짓말)"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
+      - title: "컴퓨터 정보과 설립!"
         year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
+        desc: "영광스러운 전주 비전대 컴퓨터 정보과의 설립"
+        image: https://cdn.pixabay.com/photo/2016/11/29/08/41/apple-1868496_640.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
+      - title: "최신형 컴퓨터 도입"
+        year: "2013"
+        desc: "최신형 컴퓨터 5000대 도입"
+        image: https://cdn.pixabay.com/photo/2020/04/08/16/32/keyboard-5017973_640.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
+      - title: "이시진 입학"
+        year: "2023"
+        desc: "24살 이시진 입학"
+        image: https://media.istockphoto.com/id/1431838600/ko/%EC%82%AC%EC%A7%84/%EA%B5%90%EC%8B%A4%EC%97%90%EC%84%9C-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%EC%A0%8A%EC%9D%80-%EC%9D%BC%EB%B3%B8-%ED%95%99%EC%83%9D.webp?b=1&s=612x612&w=0&k=20&c=J3POSiEwBcjxowDgYWmwOmkxoWM3KeXDlPMCctv7KUU=
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt:
+    
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
-
-  about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: about
+    end: "역사<br>진행중"
 
   clients:
     section: clients
@@ -93,14 +83,14 @@ en: &DEFAULT_EN
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "놀라운 팀"
+    text: "23학번 A반 팀"
+    subtext: 엄청난 조합
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
+      - name: "이시진"
+        role: "디자인 담당"
+        image: https://t3.ftcdn.net/jpg/02/05/94/32/240_F_205943236_WBfr8zr9WpIcP6Tmc4l2DvBlbGj7VKps.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -108,9 +98,9 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
+      - name: "주도희"
+        role: "마케팅 담당"
+        image: https://t3.ftcdn.net/jpg/02/05/94/32/240_F_205943236_WBfr8zr9WpIcP6Tmc4l2DvBlbGj7VKps.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -118,9 +108,9 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
+      - name: "조은예"
+        role: "개발 담당"
+        image: https://t3.ftcdn.net/jpg/02/05/94/32/240_F_205943236_WBfr8zr9WpIcP6Tmc4l2DvBlbGj7VKps.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -128,21 +118,6 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-
-  contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
-    section: contact
-    name: "Name*"
-    name-validation: "Please enter your name."
-    email: "Email*"
-    email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
-    message: "Message*"
-    message-validation: "Please enter a message."
-    subject: "Contact Form Submission"
-    submit: "Send Message"
 
   footer:
     legal: "Privacy Policy"

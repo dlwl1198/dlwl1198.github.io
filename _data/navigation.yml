@@ -11,18 +11,14 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
+    - title: "프로그래밍 언어"
       section: services
-    - title: "Portfolio"
+    - title: "포트폴리오"
       section: portfolio
-    - title: "About"
-      section: about
-    - title: "Timeline"
+    - title: "역사"
       section: timeline
-    - title: "Team"
+    - title: "팀"
       section: team
-    - title: "Contact"
-      section: contact
     - title: "Theme Source"
       url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
@@ -63,8 +59,8 @@ de: &DEFAULT_DE
   nav:
     - title: "Leistungen"
       section: Leistungen
-    - title: "Portfolio"
-      section: Portfolio
+    - title: ""
+      section: 
     - title: "Über uns"
       section: Ueber
     - title: "Geschichte"

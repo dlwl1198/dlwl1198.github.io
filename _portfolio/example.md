@@ -1,22 +1,22 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Example
-  subtitle: subtitle
-  thumbnail: https://place-hold.it/400x300
+  title: 고양이
+  subtitle: 귀여워
+  thumbnail: https://cdn.pixabay.com/photo/2023/07/16/09/31/cat-8130334_640.jpg
   
 #what displays when the item is clicked:
-title: Title
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+title: 고양이
+subtitle: 귀여워
+image: https://cdn.pixabay.com/photo/2023/07/16/09/31/cat-8130334_640.jpg #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---
-Use this area to describe your project. **Markdown** supported.
+고양이가 누워있습니다.
 
 optional info list (delete if not using):
 
 {:.list-inline} 
-- Date: 
-- Client: 
-- Category: 
+- Date: 12
+- Client: ㅇㅅㅈ
+- Category: 동 물
 
