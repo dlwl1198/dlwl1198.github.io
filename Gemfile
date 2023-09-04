@@ -1,7 +1,6 @@
 #after any changes to the Gemfile, execute bundle update!
 source "https://rubygems.org"
-gem "github-pages"
-gem "jekyll-agency"
+gemspec
 
 # Delete the following lines if not on Windows: 
 # Performance-booster for watching directories on Windows
